@@ -1,3 +1,3 @@
-# SuperXX / MiniXX Log Analyzer
+# MiniXX Log Analyzer
 
-Browser-based fuel correction and actual ignition-angle analysis for SuperXX and MiniXX logs.
+Browser-based MiniXX fuel correction, before-after Log comparison, and actual ignition-angle analysis.
